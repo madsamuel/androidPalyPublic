@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">layoutBasics</string>
+    <string name="apply">Apply</string>
+    <string name="brown">Brown</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="e_mail">E-mail</string>
+    <string name="country">Country</string>
+    <string name="passport">Passport</string>
+    <string name="id_card">ID Card</string>
+    <string name="first_name">First Name</string>
+    <string name="black">Black</string>
+    <string name="birth_date">Birth Date</string>
+</resources>
