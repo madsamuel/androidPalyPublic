@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_button_street_details"
+        android:title="Back"
+        android:icon="@drawable/baseline_arrow_back_ios_24"
+        />
+</menu>
