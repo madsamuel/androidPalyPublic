@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item name="John Wick" email="jw@email.com" imageId="@drawable/a"/>
+    <item name="Ada Big" email="abtw@email.com" imageId="@drawable/b"/>
+    <item name="Ben David" email="bd@email.com" imageId="@drawable/c"/>
+    <item name="Ethan Gabriel" email="eg@email.com" imageId="@drawable/d"/>
+    <item name="Henry Jacob" email="HJ@email.com" imageId="@drawable/e"/>
+    <item name="Math Rim" email="mr@email.com" imageId="@drawable/f"/>
+    <item name="Arnold Sil" email="AS@email.com" imageId="@drawable/g"/>
+</items>

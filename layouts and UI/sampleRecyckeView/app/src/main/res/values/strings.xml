@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sampleRecycleView</string>
+    <string name="headshot">Person headshot</string>
+</resources>
